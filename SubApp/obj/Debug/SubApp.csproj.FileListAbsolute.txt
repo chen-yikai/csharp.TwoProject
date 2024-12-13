@@ -1,0 +1,10 @@
+C:\Users\elias\Documents\projects\MainApp\SubApp\bin\Debug\SubApp.exe.config
+C:\Users\elias\Documents\projects\MainApp\SubApp\bin\Debug\SubApp.exe
+C:\Users\elias\Documents\projects\MainApp\SubApp\bin\Debug\SubApp.pdb
+C:\Users\elias\Documents\projects\MainApp\SubApp\obj\Debug\SubApp.csproj.AssemblyReference.cache
+C:\Users\elias\Documents\projects\MainApp\SubApp\obj\Debug\SubApp.Form1.resources
+C:\Users\elias\Documents\projects\MainApp\SubApp\obj\Debug\SubApp.Properties.Resources.resources
+C:\Users\elias\Documents\projects\MainApp\SubApp\obj\Debug\SubApp.csproj.GenerateResource.cache
+C:\Users\elias\Documents\projects\MainApp\SubApp\obj\Debug\SubApp.csproj.CoreCompileInputs.cache
+C:\Users\elias\Documents\projects\MainApp\SubApp\obj\Debug\SubApp.exe
+C:\Users\elias\Documents\projects\MainApp\SubApp\obj\Debug\SubApp.pdb
